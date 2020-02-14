@@ -38,7 +38,7 @@ const Home = () => {
 
             <section id="showcase">
                 <div className="container">
-                    <h1>Affordable Professional web Design</h1>
+                    <h1>Udara Jayawardena</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi voluptatem blanditiis sit ?</p>
                 </div>
             </section>
