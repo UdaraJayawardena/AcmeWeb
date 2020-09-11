@@ -15,7 +15,7 @@ const Home = () => {
                 <div className="container">
                     <div id="branding">
                         <h1><span className="highlight">Acme
-                            </span> Web Design</h1>
+                            </span> Web Design V1</h1>
                     </div>
                     <nav>
                         <ul>
